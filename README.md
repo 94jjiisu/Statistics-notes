@@ -11,3 +11,5 @@ manual notes of statistics
 23/04/10 update
   
 23/04/12 update
+
+23/04/18 update
